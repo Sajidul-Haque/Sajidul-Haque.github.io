@@ -1,30 +1,38 @@
-Editorial by HTML5 UP
-html5up.net | @ajlkn
-Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+Sajidul Haque - Portfolio
 
+This is my personal portfolio website built using the Editorial template by HTML5 UP. I've customized it to showcase my projects, skills, and professional background.
+About This Project
 
-Say hello to Editorial, a blog/magazine-ish template built around a toggleable "locking"
-sidebar (scroll down to see what I mean) and an accordion-style menu. Not the usual landing
-page/portfolio affair you'd expect to see at HTML5 UP, but I figured for my 41st (!!!)
-template I'd change it up a little. Enjoy :)
+This website features a blog/magazine-ish design with a toggleable "locking" sidebar and an accordion-style menu. It's structured to present my work in a clean and engaging manner, offering a seamless experience for visitors who want to learn more about my expertise and view my projects.
+Key Features:
 
-Demo images* courtesy of Unsplash, a radtastic collection of CC0 (public domain) images
-you can use for pretty much whatever.
+    Responsive Design: Works smoothly on all devices, including desktops, tablets, and smartphones.
+    Projects Showcase: A dedicated section for displaying my key projects, including GitHub links for source code.
+    Personal Branding: The website highlights my skills, professional experience, and contact information, providing a comprehensive overview of who I am.
 
-(* = not included)
+Credits
+Template:
 
-AJ
-aj@lkn.io | @ajlkn
+    Original Design: HTML5 UP - Editorial
+    Designer: AJ | @ajlkn
 
+Customization:
 
-Credits:
+    Customized By: Sajidul Haque
 
-	Demo Images:
-		Unsplash (unsplash.com)
+Images:
 
-	Icons:
-		Font Awesome (fontawesome.io)
+    Demo Images: Courtesy of Unsplash (not included in the repository).
 
-	Other:
-		jQuery (jquery.com)
-		Responsive Tools (github.com/ajlkn/responsive-tools)
+Icons:
+
+    Font Awesome: Font Awesome
+
+Other:
+
+    jQuery: jQuery
+    Responsive Tools: Responsive Tools
+
+License
+
+This project is licensed under the Creative Commons Attribution 3.0 License. You are free to use it for personal and commercial purposes as long as you credit the original design by HTML5 UP.
