@@ -22,7 +22,7 @@ Customization:
 
 Images:
 
-    Demo Images: Courtesy of Unsplash (not included in the repository).
+    Demo Images: Courtesy of Unsplash and ChatGPT
 
 Icons:
 
